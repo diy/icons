@@ -1,0 +1,24 @@
+{
+  "name": "diy-icons",
+  "version": "0.0.0",
+  "description": "DIY icon set",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diy/icons.git"
+  },
+  "author": "Derek Reynolds <drk@diy.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diy/icons/issues"
+  },
+  "homepage": "https://github.com/diy/icons",
+  "dependencies": {
+    "gulp-svgmin": "^0.4.6",
+    "gulp": "^3.8.8",
+    "gulp-svgstore": "^1.0.1"
+  }
+}

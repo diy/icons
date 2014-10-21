@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="83.697px" height="83.698px" viewBox="2040.347 465.411 83.697 83.698"
 	 enable-background="new 2040.347 465.411 83.697 83.698" xml:space="preserve">
-<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2116.035,481.181"/>
-<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2048.357,481.181"/>
-<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2116.035,481.178"/>
-<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2048.357,481.178"/>
-<g>
+<g id="Export_Sheet">
+	<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2116.035,481.181"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2048.357,481.181"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2116.035,481.178"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M2048.357,481.178"/>
 	<g>
-		<path fill="#414C52" d="M2077.916,509.264c2.6,1.645,5.96,1.646,8.562-0.001l27.896-17.666v-0.013c0-3.313-2.687-6-6-6h-52.353
-			c-3.314,0-6,2.687-6,6v0.014L2077.916,509.264z"/>
+		<path fill="#414C52" d="M2108.373,485.583h-52.353c-3.314,0-6,2.687-6,6v0.014l27.896,17.666c2.6,1.645,5.96,1.646,8.562-0.001
+			l27.896-17.666v-0.013C2114.373,488.27,2111.686,485.583,2108.373,485.583z M2082.196,518.491c-2.98,0-5.96-0.822-8.56-2.47
+			l-23.616-14.956v22.101c0,3.314,2.686,6,6,6h52.353c3.313,0,6-2.686,6-6v-22.101l-23.615,14.956
+			C2088.157,517.668,2085.175,518.491,2082.196,518.491z"/>
 	</g>
-	<g>
-		<path fill="#414C52" d="M2090.757,516.021c-2.601,1.646-5.582,2.47-8.562,2.47c-2.98,0-5.96-0.822-8.56-2.47l-23.616-14.956
-			v22.101c0,3.314,2.686,6,6,6h52.353c3.313,0,6-2.686,6-6v-22.101L2090.757,516.021z"/>
-	</g>
+</g>
+<g id="Source_Artwork">
 </g>
 </svg>

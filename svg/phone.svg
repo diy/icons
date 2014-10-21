@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="83.697px" height="83.698px" viewBox="2804.246 680.316 83.697 83.698"
 	 enable-background="new 2804.246 680.316 83.697 83.698" xml:space="preserve">
-<g id="Layer_1">
-	<path d="M2859.384,689.989h-26.583c-3.313,0-6,2.686-6,6v52.352c0,3.314,2.687,6,6,6l26.583-0.002c3.313,0,6-2.686,6-6v-52.35
-		C2865.384,692.676,2862.698,689.989,2859.384,689.989z M2831.801,741.074v-37.583c0-1.656,1.343-3,3-3h22.583c1.657,0,3,1.344,3,3
-		v37.583c0,1.657-1.344,3-3,3h-22.583C2833.144,744.074,2831.801,742.731,2831.801,741.074z"/>
-</g>
-<g id="Layer_2">
-</g>
-<g id="Layer_3">
-</g>
-<g id="Layer_4">
-</g>
-<g id="Layer_5">
-</g>
-<g id="Layer_6">
-</g>
-<g id="Layer_7">
-</g>
-<g id="Layer_8">
-</g>
+<path fill="#414C52" d="M2859.384,689.989h-26.583c-3.313,0-6,2.686-6,6v52.352c0,3.314,2.687,6,6,6l26.583-0.002
+	c3.313,0,6-2.686,6-6v-52.35C2865.384,692.676,2862.698,689.989,2859.384,689.989z M2831.801,741.074v-37.583c0-1.656,1.343-3,3-3
+	h22.583c1.657,0,3,1.344,3,3v37.583c0,1.657-1.344,3-3,3h-22.583C2833.144,744.074,2831.801,742.731,2831.801,741.074z"/>
 </svg>

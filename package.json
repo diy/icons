@@ -19,6 +19,7 @@
   "dependencies": {
     "gulp-svgmin": "^0.4.6",
     "gulp": "^3.8.8",
-    "gulp-svgstore": "^1.0.1"
+    "gulp-svgstore": "^1.0.1",
+    "gulp-svg-sprites": "^1.0.3"
   }
 }

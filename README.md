@@ -47,3 +47,28 @@ Run `make` before committing so we include `dist/diy-icons.svg`.
 # Must Read
 
 https://docs.google.com/a/diy.org/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/preview?sle=true#slide=id.p
+
+
+# Producing SVG Assets in Illustrator
+
+Vector structure
+
+* Keep original, editable artwork on separate artboard• Composite artwork
+* Single shape
+* No grouped objects
+* Use standard canvas size
+* Use guides to align objects
+
+File names
+
+* Lowercase
+* No prefix
+* No spaces - use hyphens
+* Name represents appearance
+
+Preflight
+
+* File > Save As... > Filetype > SVG
+* Check "Use Artboards" > Set the range to export (numbers listed in the Artboards palette next to each name)
+* Check for consistency in browser & correct filename
+* Push to GitHub!
